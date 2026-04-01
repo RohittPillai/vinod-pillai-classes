@@ -241,7 +241,7 @@ export default function LandingPage() {
                   <Clock className="text-blue-600 shrink-0" size={24} />
                   <div>
                     <h4 className="font-bold text-xs uppercase tracking-widest text-slate-400 mb-2">Timing</h4>
-                    <p className="text-slate-700 text-sm font-medium italic">Mon — Sat: 02:00 PM to 08:00 PM <br/> Sundays Closed</p>
+                    <p className="text-slate-700 text-sm font-medium italic">Mon — Sat: 02:00 PM to 07:00 PM <br/> Sundays Closed</p>
                   </div>
                </div>
             </div>
