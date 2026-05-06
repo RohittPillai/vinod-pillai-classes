@@ -14,10 +14,10 @@ export default function LandingPage() {
   }, []);
 
   const students = [
-    { id: 1, name: "Kashvi Gandhi", percentage: "95.33%" },
-    { id: 2, name: "Tanay Sanghvi", percentage: "95.33%" },
-    { id: 3, name: "Akshaj Patel", percentage: "95%" },
-    { id: 4, name: "Mimiksha Parmar", percentage: "95%" },
+    { id: 1, name: "Dhwani Dave", percentage: "97.3%" },
+    { id: 2, name: "Kavya Gandhi", percentage: "96.7%" },
+    { id: 3, name: "Mahek Gajjar", percentage: "96.3%" },
+    { id: 4, name: "Freya Patel", percentage: "94.7%" },
   ];
 
   const batches = [
